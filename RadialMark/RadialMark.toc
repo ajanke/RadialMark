@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: RadialMark
+## Notes: Radial raid marking tool
+## Version: 1.0
+## Author: Aic
+## X-Category: Raid
+## X-Credits: Rabbit, Rhaene, JASlaughter
+## SavedVariables: RadialMarkDB
+
+RadialMark.lua
+
